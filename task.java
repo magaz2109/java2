@@ -1,6 +1,5 @@
 package les4;
 import java.util.*;
-
 public class task {
     public static void main(String[] args) {
         String[] words = {"dog", "cat", "pet", "dog", "mouse", "dog", "mouse", "pig", "elephant", "lynx"};
